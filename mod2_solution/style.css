@@ -1,15 +1,14 @@
 h1 {
   text-align: center;
-  background-color: #e00f0f;
   text-decoration: underline;
 }
 
 p {
   background-color: #e00f0f;
-  border: 1px solid #black;
+  border: 1px solid #000000;
 }
 
 .border {
-  border: 1px solid #black;
+  border: 1px solid #000000;
   background-color: #808080;
 }
