@@ -1,8 +1,14 @@
 h1 {
+  text-align: center;
   background-color: #e00f0f;
   text-decoration: underline;
 }
 
+p {
+  background-color: #e00f0f;
+  border: 1px solid #black;
+
 .border {
   border: 1px solid #black;
+  background-color: #808080;
 }
