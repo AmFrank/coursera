@@ -2,3 +2,7 @@ h1 {
   background-color: #e00f0f;
   text-decoration: underline;
 }
+
+.border {
+  border: 1px solid #black;
+}
